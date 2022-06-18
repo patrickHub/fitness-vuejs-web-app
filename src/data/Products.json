@@ -1,0 +1,45 @@
+[
+    {
+        "id": "0",
+        "name": "BioHack:Serum Code:PR3",
+        "price": 49.99,
+        "url": "biohack-serum-code-pr3.png",
+        "description": "Our flagship Stimulant pre workout, that will take you to your goals and beyond Formulated with the intricacy of Biohacking in every way. so we will see a greatly increased level of choline in our body and brain"
+    },
+
+    {
+        "id": "1",
+        "name": "BioHack:Serum Code:Pump",
+        "price": 39.99,
+        "url": "biohack-serum-code-pumk.png",
+        "description": "What is Biohack Pharmaceuticals Serum Code Pump? Serum Code Pump is a stimulant-free, pump pre-workout just as highly dosed as Biohack’s stimulant pre-workout PR3. The supplement’s primary focus is to enhance muscle pumps while you workout and to help nutrient delivery to your muscles to give you that extra push you really need."
+    },
+    {
+        "id": "2",
+        "name": "Premium Raws: Tudca",
+        "price": 34.99,
+        "url": "premium-raws.jpg",
+        "description": "WHAT IS TUDCA? Tauroursodeoxycholic acid, more commonly referred to as TUDCA, is a bile salt that is found natrually occurring in the body. When regular bile salts reach the intestines, they can be metabolized by bacteria into UDCA and then later bound to a taurine molecule to become TUDCA."
+    },
+    {
+        "id": "3",
+        "name": "TWP: Salvage",
+        "price": 44.99,
+        "url": "twp-salvage.jpg",
+        "description": "SALVAGE is the first protein in the UK to completely disclose the entire breakdown of protein content, offering complete transparency and confidence to you our kick ass customers."
+    },
+    {
+        "id": "4",
+        "name": "TWP: Ashwagandha",
+        "price": 15.99,
+        "url": "twp-ashwagandha.jpg",
+        "description": "TWP Ashwagandha includes Bioperine to increase bioavailability.  Also includes AstraGin; The Absorption King!"
+    },
+    {
+        "id": "5",
+        "name": "OHS: Unleash Hell",
+        "price": 29.99,
+        "url": "ohs-unleash-hell.png",
+        "description": "Our pre workout formulation truly is at the very top of the game, no BS.  We have chosen the best ingredients at clinical doses.  Time to get your game face on and UNLEASH HELL!!"
+    }
+]

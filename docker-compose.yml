@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+
+  fitness-vusjs-web-app:
+    container_name: fitness-vusjs-web-app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/app'
+    ports:
+      - '8081:80'
