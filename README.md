@@ -10,8 +10,8 @@ Fitness-Shop-Web-App is an online store project design to laverage componend bas
 Well Fitness-shop is powered by
 
 - [x] [Vuejs 3](https://vuejs.org/guide/introduction.html).
-- [x] [Bootstrap 5.o.o](https://getbootstrap.com/) as front-end component library in addition with Javascript.
-- [x] [Cypress 3.1.0](https://www.cypress.io/blog/2021/04/06/getting-start-with-cypress-component-testing-vue-2-3/ as UI authomated test library.
+- [x] [Bootstrap 5.0.0](https://getbootstrap.com/) as front-end component library in addition with Javascript.
+- [x] [Cypress 3.1.0](https://www.cypress.io/blog/2021/04/06/getting-start-with-cypress-component-testing-vue-2-3/) as UI authomated test library.
 
 ## Getting Started
 
